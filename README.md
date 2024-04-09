@@ -9,7 +9,7 @@ A code editor such as ### `Visual Studio Code`
 
 ## Running the Application
 
-1- Open a terminal window.
+1- Open a terminal window.\
 2- Start the React application by running the following command:
 ### `npm start`
 
