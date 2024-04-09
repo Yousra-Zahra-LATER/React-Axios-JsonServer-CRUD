@@ -4,10 +4,13 @@ This repository contains a tutorial on creating a CRUD (Create, Read, Update, De
 ### Prerequisites
 Before starting this tutorial, make sure you have the following installed on your system:
 
-Node.js and npm (or yarn)
-A code editor such as Visual Studio Code
+### `Node.js` and npm (or yarn)
+A code editor such as ### `Visual Studio Code`
 
-In the project directory, you can run:
+## Running the Application
+
+1- Open a terminal window.
+2- Start the React application by running the following command:
 ### `npm start`
 
 Runs the app in the development mode.\
