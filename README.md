@@ -4,7 +4,7 @@ This repository contains a tutorial on creating a CRUD (Create, Read, Update, De
 ## Prerequisites
 Before starting this tutorial, make sure you have the following installed on your system:
 
-`Node.js` and npm
+`Node.js` and `npm`.\
 A code editor such as`Visual Studio Code`
 
 ## Running the Application
