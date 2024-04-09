@@ -10,18 +10,18 @@ Before starting this tutorial, make sure you have the following installed on you
 A code editor such as`Visual Studio Code`
 
 ## Running the Application
-
-1- Open a terminal window.\
-2- Start the React application by running the following command:
-### `npm start`
+1- Clone this repository to your local machine:
+2- Open a terminal window.\
+3- Start the React application by running the following command:
+ `npm start`
 
 Runs the React app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
+The application will be accessible at `http://localhost:3000` .
 
 The page will reload when you make changes.\
 You may also see any lint errors in the console.
 
-3- Open another terminal window (keeping the first one running).\
-4- Start the JSON Server to simulate a RESTful API by running the following command:
-### `json-server --watch db.json --port 3001`
+4- Open another terminal window (keeping the first one running).\
+5- Start the JSON Server to simulate a RESTful API by running the following command:
+`json-server --watch db.json --port 3001`
 This command will start the JSON Server using the db.json file as the data source and expose it at http://localhost:3001.
