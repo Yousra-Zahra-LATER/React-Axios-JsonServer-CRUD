@@ -23,5 +23,5 @@ You may also see any lint errors in the console.
 
 4- Open another terminal window (keeping the first one running).\
 5- Start the JSON Server to simulate a RESTful API by running the following command:
-`json-server --watch db.json --port 3001`
-This command will start the JSON Server using the db.json file as the data source and expose it at http://localhost:3001.
+`json-server --watch db.json --port 3001`.\
+This command will start the JSON Server using the db.json file as the data source and expose it at `http://localhost:3001`.
