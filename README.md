@@ -1,7 +1,13 @@
-# GTutorial CRUD avec React, Axios et JSON Server
+# CRUD Tutorial with React, Axios, and JSON Server
+This repository contains a tutorial on creating a CRUD (Create, Read, Update, Delete) application using React for the frontend, Axios for handling HTTP requests, and JSON Server to simulate a RESTful API. .\ 
+
+### Prerequisites
+Before starting this tutorial, make sure you have the following installed on your system:
+
+Node.js and npm (or yarn)
+A code editor such as Visual Studio Code
 
 In the project directory, you can run:
-
 ### `npm start`
 
 Runs the app in the development mode.\
