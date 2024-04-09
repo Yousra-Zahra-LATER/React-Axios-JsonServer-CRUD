@@ -4,25 +4,25 @@
       "id": 1,
       "name": "John Doe",
       "email": "john@example.fr",
-      "phone": "43453453"
+      "phone": "1234567890"
     },
     {
       "id": 2,
       "name": "Jane Smith",
       "email": "jane@example.com",
-      "phone": "446786724523"
+      "phone": "9876543210"
     },
     {
       "id": 3,
       "name": "Alice Johnson",
       "email": "alice@example.com",
-      "phone": "45161"
+      "phone": "555555555"
     },
     {
       "id": 4,
-      "name": "LATER Yousra Zahra",
+      "name": "LATER Yousra Zahra h",
       "email": "yousra.later@univ-constantine2.dz",
-      "phone": "0667044588"
+      "phone": "06670445"
     },
     {
       "id": 5,
@@ -31,10 +31,16 @@
       "phone": "0445"
     },
     {
-      "name": "aliss",
-      "email": "Khan@gmail.com",
-      "phone": "15478514515",
-      "id": 6
+      "id": 6,
+      "name": "Douaa",
+      "email": "DL@gmail.com",
+      "phone": "57756786786"
+    },
+    {
+      "name": "Hannane",
+      "email": "HanLyna@gmail.com",
+      "phone": "02786576",
+      "id": 7
     }
   ]
 }
