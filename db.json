@@ -1,0 +1,40 @@
+{
+  "users": [
+    {
+      "id": 1,
+      "name": "John Doe",
+      "email": "john@example.fr",
+      "phone": "43453453"
+    },
+    {
+      "id": 2,
+      "name": "Jane Smith",
+      "email": "jane@example.com",
+      "phone": "446786724523"
+    },
+    {
+      "id": 3,
+      "name": "Alice Johnson",
+      "email": "alice@example.com",
+      "phone": "45161"
+    },
+    {
+      "id": 4,
+      "name": "LATER Yousra Zahra",
+      "email": "yousra.later@univ-constantine2.dz",
+      "phone": "0667044588"
+    },
+    {
+      "id": 5,
+      "name": "Lyna",
+      "email": "lyna@gmail.com",
+      "phone": "0445"
+    },
+    {
+      "name": "aliss",
+      "email": "Khan@gmail.com",
+      "phone": "15478514515",
+      "id": 6
+    }
+  ]
+}
