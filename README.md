@@ -10,7 +10,7 @@ Before starting this tutorial, make sure you have the following installed on you
 A code editor such as`Visual Studio Code` .\
 
 Additionally, you will need to install node package manager and json-server globally on your system. You can do this by running the following commands in your terminal: .\
-`npm install`.\  `npm install -g json-server`
+`npm install`  `npm install -g json-server`
 
 ## Running the Application
 1- Clone this repository to your local machine:
