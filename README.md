@@ -7,7 +7,10 @@ This repository contains a tutorial on creating a CRUD (Create, Read, Update, De
 Before starting this tutorial, make sure you have the following installed on your system:
 
 `Node.js` and `npm`.\
-A code editor such as`Visual Studio Code`
+A code editor such as`Visual Studio Code` .\
+
+Additionally, you will need to install json-server globally on your system. You can do this by running the following command in your terminal: .\
+`npm install -g json-server`
 
 ## Running the Application
 1- Clone this repository to your local machine:
