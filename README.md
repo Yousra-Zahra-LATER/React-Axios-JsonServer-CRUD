@@ -10,7 +10,7 @@ Before starting this tutorial, make sure you have the following installed on you
 A code editor such as`Visual Studio Code` 
 
 ## Running the Application
-1- Clone this repository to your local machine: \
+1- Clone this repository to your local machine: https://github.com/Yousra-Zahra-LATER/React-Axios-JsonServer-CRUD.git \
 2- Open a terminal window \
 3- You will need to install node package manager and json-server globally on your system. You can do this by running the following commands in your terminal: \
 `npm install` and  `npm install -g json-server` \
